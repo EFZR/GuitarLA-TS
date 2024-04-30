@@ -5,7 +5,6 @@ export default function Header() {
     isEmpty,
     cartTotal,
     cart,
-    addToCart,
     removeFromCart,
     increaseQuantity,
     decreaseQuantity,

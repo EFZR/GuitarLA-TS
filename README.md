@@ -2,6 +2,8 @@
 
 GuitarLA is an educational project based in our previous project [GuitarLA](https://github.com/EFZR/guitarLA) with the only difference that this project is built using Typescript and React.
 
+Some of the cool things of this project, is that we are able to use the power of the React hook being able to use: `useReducer` and `useContext` to manage the state of the application making the code more maintainable.
+
 ## 🛠️ Technologies Used
 
 This project is built using the following technologies:
